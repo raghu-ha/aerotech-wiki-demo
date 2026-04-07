@@ -88,7 +88,7 @@ python3 ../truthdrift/truthdrift.py check wiki/pages/parts-catalogue-fan-assembl
 
 ---
 
-## The Guild Talk Story
+## The Story
 
 ```
 "I asked: What's wrong with Engine #3 on aircraft XA-001?
