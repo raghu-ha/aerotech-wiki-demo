@@ -47,7 +47,7 @@
 | AT-T900-FD-SEAL-001 | Fan disc front seal | 2,500 cycles | ✅ Available |
 | AT-T900-FD-SEAL-002 | Fan disc rear seal | 2,500 cycles | ✅ Available |
 
-> ⚠️ **Fan Disc (AT-T900-FD-001):** ZERO UNITS - STOCK OUT - EMERGENCY. New production lead time: 18 months. Plan replacements well in advance.
+> ⚠️ **Fan Disc (AT-T900-FD-001):** 10 units globally - EMERGENCY. New production lead time: 18 months. Plan replacements well in advance.
 
 ---
 
@@ -58,7 +58,7 @@
 | AT-T900-FB-002 | 820 units | 300 | 270 | 250 | 
 | AT-T900-FB-LE-002 | 1,150 units | 420 | 380 | 350 |
 | AT-T900-FB-SEAL-001 | 3,600 units | 1,100 | 1,050 | 1,450 |
-| AT-T900-FD-001 | ZERO UNITS - STOCK OUT| 0 | 0 | 0 |
+| AT-T900-FD-001 | 10 units globally| 1 | 1 | 1 |
 
 ---
 
