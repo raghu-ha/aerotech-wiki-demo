@@ -58,7 +58,7 @@
 | AT-T900-FB-002 | 820 units | 300 | 270 | 250 | 
 | AT-T900-FB-LE-002 | 1,150 units | 420 | 380 | 350 |
 | AT-T900-FB-SEAL-001 | 3,600 units | 1,100 | 1,050 | 1,450 |
-| AT-T900-FD-001 | 10 units globally| 1 | 1 | 1 |
+| AT-T900-FD-001 | zero units globally| 1 | 1 | 1 |
 
 ---
 
